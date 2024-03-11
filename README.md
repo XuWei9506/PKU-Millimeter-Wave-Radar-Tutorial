@@ -5,9 +5,9 @@
 内容包含了：基于IWR1843+DCA1000的数据采集教程、毫米波雷达基础知识总结、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo（未添加）、毫米波雷达生命体征检测Demo（未添加）。
 
 ### 建议学习顺序
-首先按照IWR1843+DCA1000 ADC Raw Data Capture学习如何采集原始的ADC数据（如果说明了不需要采集数据，直接利用已采集好的数据，这一步可以跳过）；
+首先按照**IWR1843+DCA1000 ADC Raw Data Capture**学习如何采集原始的ADC数据（如果说明了不需要采集数据，直接利用已采集好的数据，这一步可以跳过）；
 
-然后按照Basic Mmwave Signal Processing学习如何对雷达的ADC数据进行处理；
+然后按照**Basic Mmwave Signal Processing**学习如何对雷达的ADC数据进行处理；
 
 最后按照给出的**基于点云的人体定位demo**、**基于热力图的人体定位demo**和**生命体征检测demo**学习毫米波感知的具体应用场景。
 
