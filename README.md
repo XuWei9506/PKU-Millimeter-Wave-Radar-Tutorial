@@ -1,6 +1,6 @@
 ### PKU Millimeter Wave Radar Tutorial
 
-本项目是为了PKU大二学生科研轮转而创。
+本项目是为了PKU大二学生本研轮转而创。
 
 内容包含了：基于IWR1843+DCA1000的数据采集教程、毫米波雷达基础知识总结、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo。
 
